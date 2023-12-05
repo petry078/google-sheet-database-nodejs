@@ -1,6 +1,6 @@
 # googleSheetDatabaseNodejs
 
-Use [Google Sheets](https://sheets.google.com) as database provider.
+Use [Google Sheets](https://sheets.google.com) as database provider, in real-time!
 
 ## Pre-requisits
 
