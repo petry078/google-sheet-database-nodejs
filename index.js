@@ -13,7 +13,7 @@ app.post("/", async (req, res) => {
   const {id, note} = req.body
 
   const auth = new google.auth.GoogleAuth({
-    keyFile: "credentials.json",
+    keyFile: "<credentials.json>",
     scopes: "https://www.googleapis.com/auth/spreadsheets"
   })
 
